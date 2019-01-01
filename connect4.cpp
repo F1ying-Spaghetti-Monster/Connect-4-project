@@ -83,7 +83,9 @@ int check_if_win(board *board)
         }
     }
     //check diagonally
-
+        for (int i=3; i!=-1; i--){
+            
+        }
     return 0;
 }
 
